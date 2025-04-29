@@ -5,7 +5,7 @@ Hola mi nombre es Solange , vivo en Castelar estoy realizando cursos de habilida
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/solange-elizabet-hucek-3218b9362) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/solange-elizabet-hucek-3218b9362) www.linkedin.com/in/solange-elizabet-hucek-3218b9362
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Solangee3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Solangee3&theme=dark&hide_border=false)<br/>
