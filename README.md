@@ -1,8 +1,5 @@
 ## Hi there Solange 👋
 
-<!--
-**Solangee3/Solangee3** 
-
 # 💫 About Me:
 Hola mi nombre es Solange , vivo en Castelar estoy realizando cursos de habilidades digitales para capacitarme  para poder acceder a mas propuestas de trabajo
 
